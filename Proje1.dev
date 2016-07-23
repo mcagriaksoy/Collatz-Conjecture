@@ -1,0 +1,71 @@
+[Project]
+FileName=Proje1.dev
+Name=Collatz Conjecture Computing
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Proje1_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=1
+Icon=Proje1.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Proje1.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=1
+CompilerSet=0
+CompilerSettings=0000000000000000001000000
+UnitCount=2
+
+[VersionInfo]
+Major=1
+Minor=1
+Release=2
+Build=1
+LanguageID=1033
+CharsetID=1252
+CompanyName=MCA
+FileVersion=1.1.2.1
+FileDescription=Collatz Conjecture Computing
+InternalName=Collatz Conjecture Computing
+LegalCopyright=2016 Copyright
+LegalTrademarks=Collatz Conjecture Computing
+OriginalFilename=Collatz Conjecture Computing
+ProductName=Mehmet Cagri Aksoy
+ProductVersion=1.1.2.1
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=main.c
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=Ýsimsiz2
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
